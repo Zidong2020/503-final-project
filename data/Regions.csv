@@ -1,0 +1,220 @@
+Country Name,Regions,ID
+Afghanistan,Asia,AFG
+Albania,Europe,ALB
+Algeria,Africa,DZA
+American Samoa,Oceania,ASM
+Andorra,Europe,AND
+Angola,Africa,AGO
+Anguilla,Latin America and the Caribbean,AIA
+Antigua and Barbuda,Latin America and the Caribbean,ATG
+Argentina,Latin America and the Caribbean,ARG
+Armenia,Asia,ARM
+Aruba,Latin America and the Caribbean,ABW
+Australia,Oceania,AUS
+Austria,Europe,AUT
+Azerbaijan,Asia,AZE
+Bahamas,Latin America and the Caribbean,BHS
+Bahrain,Asia,BHR
+Bangladesh,Asia,BGD
+Barbados,Latin America and the Caribbean,BRB
+Belarus,Europe,BLR
+Belgium,Europe,BEL
+Belize,Latin America and the Caribbean,BLZ
+Benin,Africa,BEN
+Bermuda,Northern America,BMU
+Bhutan,Asia,BTN
+Bolivia (Plurinational State of),Latin America and the Caribbean,BOL
+Bosnia and Herzegovina,Europe,BIH
+Botswana,Africa,BWA
+Brazil,Latin America and the Caribbean,BRA
+British Virgin Islands,Latin America and the Caribbean,VGB
+Brunei Darussalam,Asia,BRN
+Bulgaria,Europe,BGR
+Burkina Faso,Africa,BFA
+Burundi,Africa,BDI
+Cabo Verde,Africa,CPV
+Cambodia,Asia,KHM
+Cameroon,Africa,CMR
+Canada,Northern America,CAN
+Cayman Islands,Latin America and the Caribbean,CYM
+Central African Republic (The),Africa,CAF
+Chad,Africa,TCD
+Chile,Latin America and the Caribbean,CHL
+China,Asia,CHN
+Colombia,Latin America and the Caribbean,COL
+Comoros (The),Africa,COM
+Congo (The),Africa,COG
+Cook Islands,Oceania,COK
+Costa Rica,Latin America and the Caribbean,CRI
+Cote d'Ivoire,Africa,CIV
+Croatia,Europe,HRV
+Cuba,Latin America and the Caribbean,CUB
+Cyprus,Asia,CYP
+Czechia,Europe,CZE
+Democratic People's Rep. of Korea (The),Asia,PRK
+Democratic Rep. of the Congo (The),Africa,COD
+Denmark,Europe,DNK
+Djibouti,Africa,DJI
+Dominica,Latin America and the Caribbean,DMA
+Dominican Republic (The),Latin America and the Caribbean,DOM
+Ecuador,Latin America and the Caribbean,ECU
+Egypt,Africa,EGY
+El Salvador,Latin America and the Caribbean,SLV
+Equatorial Guinea,Africa,GNQ
+Eritrea,Africa,ERI
+Estonia,Europe,EST
+Ethiopia,Africa,ETH
+Falkland Islands (Malvinas),Latin America and the Caribbean,FLK
+Fiji,Oceania,FJI
+Finland,Europe,FIN
+France,Europe,FRA
+French Guiana,Latin America and the Caribbean,GUF
+French Polynesia,Oceania,PYF
+Gabon,Africa,GAB
+Gambia (The),Africa,GMB
+Georgia,Asia,GEO
+Germany,Europe,DEU
+Ghana,Africa,GHA
+Gibraltar,Europe,GIB
+Greece,Europe,GRC
+Greenland,Northern America,GRL
+Grenada,Latin America and the Caribbean,GRD
+Guadeloupe,Latin America and the Caribbean,GLP
+Guam,Oceania,GUM
+Guatemala,Latin America and the Caribbean,GTM
+Guinea,Africa,GIN
+Guinea-Bissau,Africa,GNB
+Guyana,Latin America and the Caribbean,GUY
+Haiti,Latin America and the Caribbean,HTI
+Honduras,Latin America and the Caribbean,HND
+Hungary,Europe,HUN
+Iceland,Europe,ISL
+India,Asia,IND
+Indonesia,Asia,IDN
+Iran (Islamic Republic of),Asia,IRN
+Iraq,Asia,IRQ
+Ireland,Europe,IRL
+Israel,Asia,ISR
+Italy,Europe,ITA
+Jamaica,Latin America and the Caribbean,JAM
+Japan,Dev,JPN
+Jordan,Asia,JOR
+Kazakhstan,Asia,KAZ
+Kenya,Africa,KEN
+Kiribati,Oceania,KIR
+Kuwait,Asia,KWT
+Kyrgyzstan,Asia,KGZ
+Lao People's Democratic Rep. (The),Asia,LAO
+Latvia,Europe,LVA
+Lebanon,Asia,LBN
+Lesotho,Africa,LSO
+Liberia,Africa,LBR
+Libya,Africa,LBY
+Liechtenstein,Europe,LIE
+Lithuania,Europe,LTU
+Luxembourg,Europe,LUX
+Madagascar,Africa,MDG
+Malawi,Africa,MWI
+Malaysia,Asia,MYS
+Maldives,Asia,MDV
+Mali,Africa,MLI
+Malta,Europe,MLT
+Marshall Islands,Oceania,MHL
+Martinique,Latin America and the Caribbean,MTQ
+Mauritania,Africa,MRT
+Mauritius,Africa,MUS
+Mexico,Latin America and the Caribbean,MEX
+Micronesia (Federated States of),Oceania,FSM
+Monaco,Europe,MCO
+Mongolia,Asia,MNG
+Montenegro,Europe,MNE
+Montserrat,Latin America and the Caribbean,MSR
+Morocco,Africa,MAR
+Mozambique,Africa,MOZ
+Myanmar,Asia,MMR
+Namibia,Africa,NAM
+Nauru,Oceania,NRU
+Nepal,Asia,NPL
+Netherlands,Europe,NLD
+Netherlands Antilles,Latin America and the Caribbean,ANT
+New Caledonia,Oceania,NCL
+New Zealand,Oceania,NZL
+Nicaragua,Latin America and the Caribbean,NIC
+Niger (The),Africa,NER
+Nigeria,Africa,NGA
+Niue,Oceania,NIU
+Norway,Europe,NOR
+Oman,Asia,OMN
+Pakistan,Asia,PAK
+Palau,Oceania,PLW
+Panama,Latin America and the Caribbean,PAN
+Papua New Guinea,Oceania,PNG
+Paraguay,Latin America and the Caribbean,PRY
+Peru,Latin America and the Caribbean,PER
+Philippines (The),Asia,PHL
+Poland,Europe,POL
+Portugal,Europe,PRT
+Puerto Rico,Latin America and the Caribbean,PRI
+Qatar,Asia,QAT
+Republic of Korea (The),Asia,KOR
+Republic of Moldova (The),Europe,MDA
+Reunion,Africa,REU
+Romania,Europe,ROU
+Russian Federation (The),Europe,RUS
+Rwanda,Africa,RWA
+Saint Kitts and Nevis,Latin America and the Caribbean,KNA
+Saint Lucia,Latin America and the Caribbean,LCA
+Saint Vincent and the Grenadines,Latin America and the Caribbean,VCT
+Samoa,Oceania,WSM
+San Marino,Europe,SMR
+Sao Tome and Principe,Africa,STP
+Saudi Arabia,Asia,SAU
+Senegal,Africa,SEN
+Serbia,Europe,SRB
+Seychelles,Africa,SYC
+Sierra Leone,Africa,SLE
+Singapore,Asia,SGP
+Slovakia,Europe,SVK
+Slovenia,Europe,SVN
+Solomon Islands,Oceania,SLB
+Somalia,Africa,SOM
+South Africa,Africa,ZAF
+South Sudan,Africa,SSD
+Spain,Europe,ESP
+Sri Lanka,Asia,LKA
+Sudan (The),Africa,SDN
+Suriname,Latin America and the Caribbean,SUR
+Swaziland,Africa,SWZ
+Sweden,Europe,SWE
+Switzerland,Europe,CHE
+Syrian Arab Republic (The),Asia,SYR
+Tajikistan,Asia,TJK
+Thailand,Asia,THA
+The Former Yugoslav Republic of Macedonia,Europe,MKD
+Timor-Leste,Asia,TLS
+Togo,Africa,TGO
+Tokelau,Oceania,TKL
+Tonga,Oceania,TON
+Trinidad and Tobago,Latin America and the Caribbean,TTO
+Tunisia,Africa,TUN
+Turkey,Asia,TUR
+Turkmenistan,Asia,TKM
+Turks and Caicos Islands,Latin America and the Caribbean,TCA
+Tuvalu,Oceania,TUV
+Uganda,Africa,UGA
+Ukraine,Europe,UKR
+United Arab Emirates,Asia,ARE
+United Kingdom (The),Europe,GBR
+United Republic of Tanzania (The),Africa,TZA
+United States of America (The),Northern America,USA
+Uruguay,Latin America and the Caribbean,URY
+Uzbekistan,Asia,UZB
+Vanuatu,Oceania,VUT
+Venezuela (Bolivarian Republic of),Latin America and the Caribbean,VEN
+Viet Nam,Asia,VNM
+Virgin Islands (USA),Latin America and the Caribbean,VIR
+Wallis and Futuna,Oceania,WLF
+West Bank and Gaza,Asia,PSE
+Yemen,Asia,YEM
+Zambia,Africa,ZMB
+Zimbabwe,Africa,ZWE
