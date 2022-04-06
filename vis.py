@@ -188,6 +188,7 @@ layout = layout([
     [slider, button],
 ], sizing_mode='scale_width')
 
+
 curdoc().add_root(layout)
 curdoc().title = "Olympic Data"
 
