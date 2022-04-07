@@ -1,0 +1,66 @@
+---
+title: "Untitled"
+author: "Zidong Xu"
+date: "4/6/2022"
+output: html_document
+---
+
+```{r }
+library(tidyverse)
+library(dplyr)
+library(plotly)
+library(ggplot2)
+gdp <- read.csv("data/GDP by country.csv",skip = 4)
+head(gdp)
+# wide to long
+# colnames(gdp)
+gdp <- gather(gdp, Year, gdp, X1960:X2020, factor_key=TRUE)
+gdp$Year <- substr(gdp$Year, 2, 5)
+colnames(gdp)
+gdp <- gdp[c("Country.Code","Year","gdp")]
+colnames(gdp) <- c('Country Code','Year','GDP')
+head(gdp)
+
+medals <- read.csv("data/Summer_Olympic_medallists.csv")
+head(medals)
+
+Regions <- read.csv("data/Regions.csv")
+colnames(Regions) <- c('Country','Region','Country Code')
+head(Regions)
+
+
+medals_counts <- medals %>% group_by(Edition, NOC) %>% summarise(medal_counts = n())
+colnames(medals_counts) <- c('Year','Country Code','medal_counts')
+
+merge1 <- merge(gdp, medals_counts, by=c("Country Code","Year"))
+merge2 <- merge(Regions, merge1, by=c("Country Code"))
+merge3 <- merge2[merge2$Year =="2008",]
+colnames(merge3)
+
+# Load required R packages
+library(tidyverse)
+library(highcharter) 
+
+hc <- merge3 %>%
+  hchart(
+    "treemap", 
+    hcaes(x = Country, value = GDP, color = medal_counts)
+    )
+
+
+
+```
+
+```{r }
+
+```
+
+```{r }
+
+```
+
+```{r }
+
+```
+
+
